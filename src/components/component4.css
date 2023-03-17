@@ -1,0 +1,11 @@
+.component4-container {
+  gap: var(--dl-space-space-twounits);
+  width: 200px;
+  height: 460px;
+  display: flex;
+  position: relative;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}

@@ -1,0 +1,12 @@
+.component3-container {
+  gap: var(--dl-space-space-threeunits);
+  width: 596px;
+  height: 400px;
+  display: flex;
+  position: relative;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
